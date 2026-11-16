@@ -11,10 +11,3 @@ wheels/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-
-# Data
-data/raw/
-data/clean/
-
-# Large files
-*.parquet
